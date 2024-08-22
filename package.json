@@ -1,0 +1,20 @@
+{
+  "name": "envdb",
+  "version": "0.1.0",
+  "description": "A EnvDB Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node envdb-server.js"
+  },
+  "dependencies": {
+    "envdb": "1.0.7"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "envdb"
+  ]
+}
