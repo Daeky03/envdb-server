@@ -7,7 +7,7 @@
     "start": "node envdb-server.js"
   },
   "dependencies": {
-    "envdb": "1.0.9"
+    "envdb": "1.1.0"
   },
   "engines": {
     "node": "16.x"
