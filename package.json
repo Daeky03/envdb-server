@@ -2,7 +2,7 @@
   "name": "envdb",
   "version": "0.1.0",
   "description": "A EnvDB Server",
-  "main": "server.js",
+  "main": "envdb-server.js",
   "scripts": {
     "start": "node envdb-server.js"
   },
